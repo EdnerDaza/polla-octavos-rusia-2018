@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "594559600540",
+    "firebase_url": "https://polla-octavos-rusia-2018.firebaseio.com",
+    "project_id": "polla-octavos-rusia-2018",
+    "storage_bucket": "polla-octavos-rusia-2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594559600540:android:0baab36c277738fd",
+        "android_client_info": {
+          "package_name": "com.ednerdaza.pollaoctavosrusia2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594559600540-4971qteunhiqnin358t1qo2tb2g5ihag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ednerdaza.pollaoctavosrusia2018",
+            "certificate_hash": "2fd409ad5ab3a360763be6caefde9ed835591859"
+          }
+        },
+        {
+          "client_id": "594559600540-tun0ijuliddvqcb6a1r3rq1vh70jnho5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtUaGAA0NhjBxLXX_aboV3gGIbpW5kdZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594559600540-tun0ijuliddvqcb6a1r3rq1vh70jnho5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
